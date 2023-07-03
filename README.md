@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hello! 👋 My current projects are:
+
+| [Dahlia - Waveshaping Synthesis for HVCC](https://github.com/vulcu/dahlia/) | [Birdhouse Recipe Collection](https://github.com/vulcu/birdhouse-recipes/) |
+|---|---|
+| <img src="https://github.com/vulcu/dahlia/blob/main/docs/images/dahlia-controls-main.png"/> | <p align="center"><img src="https://github.com/vulcu/birdhouse-recipes/blob/main/docs/birdhouse-recipes-01.jpg" width="50%" /></p> |
 
 <!--
 **vulcu/vulcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
