@@ -1,4 +1,4 @@
-### Hello! 👋 My current projects are:
+### Hello! 👋 My current projects in development are:
 
 | [Dahlia - Waveshaping Synthesis for HVCC](https://github.com/vulcu/dahlia/) | [Birdhouse Recipe Collection](https://github.com/vulcu/birdhouse-recipes/) |
 |---|---|
