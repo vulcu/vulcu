@@ -2,7 +2,7 @@
 
 | [Dahlia - Waveshaping Synthesis for HVCC](https://github.com/vulcu/dahlia/) | [Birdhouse Recipe Collection](https://github.com/vulcu/birdhouse-recipes/) |
 |---|---|
-| <a href="https://github.com/vulcu/dahlia/"><img src="https://github.com/vulcu/dahlia/blob/main/docs/images/dahlia-controls-main.png"/></a> | <p align="center"><a href="https://github.com/vulcu/birdhouse-recipes/"><img src="https://github.com/vulcu/birdhouse-recipes/blob/main/docs/birdhouse-recipes-01.jpg" width="50%" /></a></p> |
+| <a href="https://github.com/vulcu/dahlia/"><img src="https://github.com/vulcu/dahlia/blob/main/docs/img/controls-modern.png"/></a> | <p align="center"><a href="https://github.com/vulcu/birdhouse-recipes/"><img src="https://github.com/vulcu/birdhouse-recipes/blob/main/docs/birdhouse-recipes-01.jpg" width="50%" /></a></p> |
 
 <!--
 **vulcu/vulcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
